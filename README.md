@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darkwind66
+- 👋 Hi, I’m @Darkwind66 (Leandro R Santos)
 - 👀 I’m interested in learn and share knowledgement
 - 🌱 I’m currently learning Python, R, C#, SQL and some other languages, including Data Science and Fullstack development.
 - 💞️ I’m looking to collaborate on turn the world better 
